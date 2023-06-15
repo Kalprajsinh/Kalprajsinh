@@ -1,7 +1,10 @@
-### Hi there 👋
+<!--### Hi there 👋
+
 
 <!--
 **Kalprajsinh/Kalprajsinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HI+I+AM+KALPRAJ.;I+AM+A+DEVELOPER.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HI+👋+I+AM+KALPRAJ.)](https://git.io/typing-svg)
