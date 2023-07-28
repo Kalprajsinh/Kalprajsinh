@@ -20,3 +20,25 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HI+👋+I+AM+KALPRAJ.)](https://git.io/typing-svg)
+
+### About
+- Programming launguage skill : `C`, `C++`, `Java (Basic)` , `Python (Basic)`
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalprajsinh&show_icons=true&locale=en&layout=compact" alt="kalprajsinh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalprajsinh&" alt="kalprajsinh" /></p>
+
+
+### Connect
+
+<a href=""> 
+  <img align="left" src=""/>
+</a>
+<a href=""> 
+    <img align="left" src=""></img>
+</a>
+<a href=""> 
+    <img align="left" src=""></img>
+</a>
+<a href=""> 
+    <img align="left" src=""></img>
+</a>
