@@ -1,8 +1,14 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HI+👋+I+AM+KALPRAJ.)](https://git.io/typing-svg)
-<hr>
+<!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HI+👋+I+AM+KALPRAJ.)](https://git.io/typing-svg) -->
 
-Welcome to my GitHub profile! I'm passionate about coding and love working on various projects. Here's a little about me:
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/Kalprajsinh/Kalprajsinh/assets/96036005/6be6240b-f4c3-428e-a4cb-c0eefec14a6b" width="9%" style="flex:100%;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HI+👋+I+AM+KALPRAJ." style="width: 80%;">
+  </a>
+</div>
+<hr>
+Welcome to my GitHub profile! I'm passionate about coding and love working on various projects.
 
 ### Skills 🚀
 ### Programming Languages
